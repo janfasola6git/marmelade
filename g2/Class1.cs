@@ -7,5 +7,6 @@ namespace g2
 {
     public class Class1
     {
+        // dzidek g1 cos robi w mainie
     }
 }
