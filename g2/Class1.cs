@@ -7,5 +7,6 @@ namespace g2
 {
     public class Class1
     {
+     //   g2 dzidek 18, master;
     }
 }
